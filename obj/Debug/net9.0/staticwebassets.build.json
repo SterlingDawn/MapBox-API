@@ -1,0 +1,702 @@
+{
+  "Version": 1,
+  "Hash": "DCacOwrP+3+1nnIhXsKedSa+WbCmQjdTKhxo/S21IVE=",
+  "Source": "MapboxDemo",
+  "BasePath": "_content/MapboxDemo",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MapboxDemo\\wwwroot",
+      "Source": "MapboxDemo",
+      "ContentRoot": "E:\\api\\MapBox\\wwwroot\\",
+      "BasePath": "_content/MapboxDemo",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "E:\\api\\MapBox\\obj\\Debug\\net9.0\\compressed\\9g2i701apx-vs869q0m4n.gz",
+      "SourceId": "MapboxDemo",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\api\\MapBox\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/MapboxDemo",
+      "RelativePath": "js/map#[.{fingerprint=vs869q0m4n}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "E:\\api\\MapBox\\wwwroot\\js\\map.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "9gr62yizsr",
+      "Integrity": "h0XkCSNI4IPfCFw1AAxdeKdYuZEX3mu+QDFeKzQMMSM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "E:\\api\\MapBox\\wwwroot\\js\\map.js"
+    },
+    {
+      "Identity": "E:\\api\\MapBox\\obj\\Debug\\net9.0\\compressed\\y6obqs8g3z-358upzvltu.gz",
+      "SourceId": "MapboxDemo",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\api\\MapBox\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/MapboxDemo",
+      "RelativePath": "index#[.{fingerprint=358upzvltu}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "E:\\api\\MapBox\\wwwroot\\index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "lzhptg1hra",
+      "Integrity": "rwuoBBmzVwi+Obz0o/A4phTbiIbitDraMCQIP06QoR8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "E:\\api\\MapBox\\wwwroot\\index.html"
+    },
+    {
+      "Identity": "E:\\api\\MapBox\\wwwroot\\index.html",
+      "SourceId": "MapboxDemo",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\api\\MapBox\\wwwroot\\",
+      "BasePath": "_content/MapboxDemo",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "358upzvltu",
+      "Integrity": "t9l9fG5bCBYR80QXSV9FUoJq242ozNEwZGbhMi6I6vM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "E:\\api\\MapBox\\wwwroot\\js\\map.js",
+      "SourceId": "MapboxDemo",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\api\\MapBox\\wwwroot\\",
+      "BasePath": "_content/MapboxDemo",
+      "RelativePath": "js/map#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vs869q0m4n",
+      "Integrity": "8bw2FRxAsH/ZM+TRq6umiPWX3pFKupi4FgRMmau2lzY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\map.js"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "index.358upzvltu.html",
+      "AssetFile": "E:\\api\\MapBox\\obj\\Debug\\net9.0\\compressed\\y6obqs8g3z-358upzvltu.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001303780965"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "766"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rwuoBBmzVwi+Obz0o/A4phTbiIbitDraMCQIP06QoR8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Apr 2025 08:04:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"t9l9fG5bCBYR80QXSV9FUoJq242ozNEwZGbhMi6I6vM=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "358upzvltu"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-t9l9fG5bCBYR80QXSV9FUoJq242ozNEwZGbhMi6I6vM="
+        }
+      ]
+    },
+    {
+      "Route": "index.358upzvltu.html",
+      "AssetFile": "E:\\api\\MapBox\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2113"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"t9l9fG5bCBYR80QXSV9FUoJq242ozNEwZGbhMi6I6vM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Apr 2025 08:04:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "358upzvltu"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-t9l9fG5bCBYR80QXSV9FUoJq242ozNEwZGbhMi6I6vM="
+        }
+      ]
+    },
+    {
+      "Route": "index.358upzvltu.html.gz",
+      "AssetFile": "E:\\api\\MapBox\\obj\\Debug\\net9.0\\compressed\\y6obqs8g3z-358upzvltu.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "766"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rwuoBBmzVwi+Obz0o/A4phTbiIbitDraMCQIP06QoR8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Apr 2025 08:04:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "358upzvltu"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rwuoBBmzVwi+Obz0o/A4phTbiIbitDraMCQIP06QoR8="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "E:\\api\\MapBox\\obj\\Debug\\net9.0\\compressed\\y6obqs8g3z-358upzvltu.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001303780965"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "766"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rwuoBBmzVwi+Obz0o/A4phTbiIbitDraMCQIP06QoR8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Apr 2025 08:04:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"t9l9fG5bCBYR80QXSV9FUoJq242ozNEwZGbhMi6I6vM=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-t9l9fG5bCBYR80QXSV9FUoJq242ozNEwZGbhMi6I6vM="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "E:\\api\\MapBox\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2113"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"t9l9fG5bCBYR80QXSV9FUoJq242ozNEwZGbhMi6I6vM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Apr 2025 08:04:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-t9l9fG5bCBYR80QXSV9FUoJq242ozNEwZGbhMi6I6vM="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.gz",
+      "AssetFile": "E:\\api\\MapBox\\obj\\Debug\\net9.0\\compressed\\y6obqs8g3z-358upzvltu.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "766"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rwuoBBmzVwi+Obz0o/A4phTbiIbitDraMCQIP06QoR8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Apr 2025 08:04:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rwuoBBmzVwi+Obz0o/A4phTbiIbitDraMCQIP06QoR8="
+        }
+      ]
+    },
+    {
+      "Route": "js/map.js",
+      "AssetFile": "E:\\api\\MapBox\\obj\\Debug\\net9.0\\compressed\\9g2i701apx-vs869q0m4n.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000487092060"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2052"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"h0XkCSNI4IPfCFw1AAxdeKdYuZEX3mu+QDFeKzQMMSM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Apr 2025 08:04:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"8bw2FRxAsH/ZM+TRq6umiPWX3pFKupi4FgRMmau2lzY=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8bw2FRxAsH/ZM+TRq6umiPWX3pFKupi4FgRMmau2lzY="
+        }
+      ]
+    },
+    {
+      "Route": "js/map.js",
+      "AssetFile": "E:\\api\\MapBox\\wwwroot\\js\\map.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6213"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8bw2FRxAsH/ZM+TRq6umiPWX3pFKupi4FgRMmau2lzY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Apr 2025 08:04:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8bw2FRxAsH/ZM+TRq6umiPWX3pFKupi4FgRMmau2lzY="
+        }
+      ]
+    },
+    {
+      "Route": "js/map.js.gz",
+      "AssetFile": "E:\\api\\MapBox\\obj\\Debug\\net9.0\\compressed\\9g2i701apx-vs869q0m4n.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2052"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"h0XkCSNI4IPfCFw1AAxdeKdYuZEX3mu+QDFeKzQMMSM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Apr 2025 08:04:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-h0XkCSNI4IPfCFw1AAxdeKdYuZEX3mu+QDFeKzQMMSM="
+        }
+      ]
+    },
+    {
+      "Route": "js/map.vs869q0m4n.js",
+      "AssetFile": "E:\\api\\MapBox\\obj\\Debug\\net9.0\\compressed\\9g2i701apx-vs869q0m4n.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000487092060"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2052"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"h0XkCSNI4IPfCFw1AAxdeKdYuZEX3mu+QDFeKzQMMSM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Apr 2025 08:04:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"8bw2FRxAsH/ZM+TRq6umiPWX3pFKupi4FgRMmau2lzY=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vs869q0m4n"
+        },
+        {
+          "Name": "label",
+          "Value": "js/map.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8bw2FRxAsH/ZM+TRq6umiPWX3pFKupi4FgRMmau2lzY="
+        }
+      ]
+    },
+    {
+      "Route": "js/map.vs869q0m4n.js",
+      "AssetFile": "E:\\api\\MapBox\\wwwroot\\js\\map.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6213"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8bw2FRxAsH/ZM+TRq6umiPWX3pFKupi4FgRMmau2lzY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Apr 2025 08:04:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vs869q0m4n"
+        },
+        {
+          "Name": "label",
+          "Value": "js/map.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8bw2FRxAsH/ZM+TRq6umiPWX3pFKupi4FgRMmau2lzY="
+        }
+      ]
+    },
+    {
+      "Route": "js/map.vs869q0m4n.js.gz",
+      "AssetFile": "E:\\api\\MapBox\\obj\\Debug\\net9.0\\compressed\\9g2i701apx-vs869q0m4n.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2052"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"h0XkCSNI4IPfCFw1AAxdeKdYuZEX3mu+QDFeKzQMMSM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Apr 2025 08:04:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vs869q0m4n"
+        },
+        {
+          "Name": "label",
+          "Value": "js/map.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-h0XkCSNI4IPfCFw1AAxdeKdYuZEX3mu+QDFeKzQMMSM="
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/MapboxDemo/index.358upzvltu.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\index.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"358upzvltu"},{"Name":"integrity","Value":"sha256-t9l9fG5bCBYR80QXSV9FUoJq242ozNEwZGbhMi6I6vM="},{"Name":"label","Value":"_content/MapboxDemo/index.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2113"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022t9l9fG5bCBYR80QXSV9FUoJq242ozNEwZGbhMi6I6vM=\u0022"},{"Name":"Last-Modified","Value":"Tue, 15 Apr 2025 08:04:59 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MapboxDemo/index.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\index.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-t9l9fG5bCBYR80QXSV9FUoJq242ozNEwZGbhMi6I6vM="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"2113"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022t9l9fG5bCBYR80QXSV9FUoJq242ozNEwZGbhMi6I6vM=\u0022"},{"Name":"Last-Modified","Value":"Tue, 15 Apr 2025 08:04:59 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MapboxDemo/js/map.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\map.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-8bw2FRxAsH/ZM\u002BTRq6umiPWX3pFKupi4FgRMmau2lzY="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"6213"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u00228bw2FRxAsH/ZM\u002BTRq6umiPWX3pFKupi4FgRMmau2lzY=\u0022"},{"Name":"Last-Modified","Value":"Tue, 15 Apr 2025 08:04:59 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MapboxDemo/js/map.vs869q0m4n.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\map.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"vs869q0m4n"},{"Name":"integrity","Value":"sha256-8bw2FRxAsH/ZM\u002BTRq6umiPWX3pFKupi4FgRMmau2lzY="},{"Name":"label","Value":"_content/MapboxDemo/js/map.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"6213"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u00228bw2FRxAsH/ZM\u002BTRq6umiPWX3pFKupi4FgRMmau2lzY=\u0022"},{"Name":"Last-Modified","Value":"Tue, 15 Apr 2025 08:04:59 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>
