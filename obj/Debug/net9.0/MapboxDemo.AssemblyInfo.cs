@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MapboxDemo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+68aa1eb734893c112c716a4b7a94d9831019ee08")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+701d5fb15a98ec33ecab3d86743d569f6e9d4d0f")]
 [assembly: System.Reflection.AssemblyProductAttribute("MapboxDemo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MapboxDemo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
